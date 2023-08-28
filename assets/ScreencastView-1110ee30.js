@@ -1,0 +1,1 @@
+import{_ as s,o as t,c,a as e}from"./index-77320496.js";const o="/vue-practicum/assets/screencast-3b19bd28.mp4";const _={},n={class:"screencast"},a=e("video",{width:"600",height:"400",controls:""},[e("source",{src:o,type:"video/mp4"})],-1),r=e("p",null,"CSS псевдокласс :has",-1),i=[a,r];function d(p,l){return t(),c("div",n,i)}const u=s(_,[["render",d]]);export{u as default};
